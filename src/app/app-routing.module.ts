@@ -11,10 +11,12 @@ const routes: Routes = [
    {path:'donors',component:DonorsListComponent},
    {path:'gifts',component:GiftsListComponent}
   ]}
+  
 ];
 
 @NgModule({
   imports: [RouterModule.forRoot(routes)],
   exports: [RouterModule]
 })
-export class AppRoutingModule { }
+export class AppRoutingModule { }//318900652665
+////318900652665.signin.aws.amazon.com/console
